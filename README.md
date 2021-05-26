@@ -2,10 +2,10 @@
 
 ### Date created
 Include the date you created this project and README file.
-05-24-2021
+### 05-24-2021
 ### Project Title
 Replace the Project Title
-explore US bike share data
+### explore US bike share data
 ### Description
 Describe what your project is about and what it does
 This project was completed as part of the Udacity Data Analyst Nanodegree program requirements.
