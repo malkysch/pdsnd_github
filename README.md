@@ -17,7 +17,13 @@ explore US bike share data
 =======
 ## 04-28-2021
 ## Explore US Bikeshare Data
+<<<<<<< HEAD
 >>>>>>> documentation
+||||||| merged common ancestors
+>>>>>>>>> Temporary merge branch 2
+=======
+>>>>>>> 7afcf059e12ff91e43ea47c46e346437aaaeb3be
+>>>>>>> refactoring
 ### Description
 <<<<<<< HEAD
 Describe what your project is about and what it does
@@ -31,7 +37,13 @@ And also make use of a package that is not part of the standard Python library t
 =======
 This project was completed as part of the Udacity Data Analyst Nanodegree program requirements.
 Using Python, build an interactive environment where a user selects and filters data to analyze.
+<<<<<<< HEAD
 >>>>>>> documentation
+||||||| merged common ancestors
+>>>>>>>>> Temporary merge branch 2
+=======
+>>>>>>> 7afcf059e12ff91e43ea47c46e346437aaaeb3be
+>>>>>>> refactoring
 ### Files used
 <<<<<<< HEAD
 Include the files used
@@ -40,7 +52,13 @@ Include the files used
 chicago.csv, washington.csv, and new_york_city.csv files
 =======
 chicago.csv, washington.csv, and new_york_city.csv 
+<<<<<<< HEAD
 >>>>>>> documentation
+||||||| merged common ancestors
+>>>>>>>>> Temporary merge branch 2
+=======
+>>>>>>> 7afcf059e12ff91e43ea47c46e346437aaaeb3be
+>>>>>>> refactoring
 ### Credits
 <<<<<<< HEAD
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
@@ -51,4 +69,10 @@ all credits are for Udacity.
 all credits go to Udacity.
 ### Created by
 Malky Schwartz
+<<<<<<< HEAD
 >>>>>>> documentation
+||||||| merged common ancestors
+>>>>>>>>> Temporary merge branch 2
+=======
+>>>>>>> 7afcf059e12ff91e43ea47c46e346437aaaeb3be
+>>>>>>> refactoring
