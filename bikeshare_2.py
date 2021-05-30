@@ -28,7 +28,8 @@ def get_filters():
     print('-'*40)
     return city, month, day
 
-
+#Increase line break hyphens from 40 to 50 in get_filters function of the Python file
+    print('-'*50)
 def load_data(city, month, day):
     """
     Loads data for the specified city and filters by month and day if applicable.
