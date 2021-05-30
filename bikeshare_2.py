@@ -111,6 +111,8 @@ def user_stats(df):
 
     # Display counts of gender
 
+total_travel_time = sum(df['Trip Duration'])
+    print("The total travel time: ", round(total_travel_time, 1)," seconds", "\n")
 
     # Display earliest, most recent, and most common year of birth
 
